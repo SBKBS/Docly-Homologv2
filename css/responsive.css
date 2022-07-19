@@ -641,6 +641,10 @@ iframe{
         height: 400px;
     }
 
+    #clouds{
+        margin-top: -50px;
+    }
+
 }
 
 
