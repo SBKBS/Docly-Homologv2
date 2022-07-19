@@ -1,0 +1,69 @@
+/* Slider */
+
+.container-fluid {
+  padding: 0;
+}
+
+#mainSlider .carousel-inner,
+#mainSlider .carousel-item {
+  height: 90vh;
+}
+
+#mainSlider .carousel-caption {
+  top: 30%;
+
+}
+
+
+
+.carousel-indicators .active {
+  background-color: #bac63e;
+}
+
+
+#two {
+  margin-top: -150px;
+
+}
+
+
+
+.carousel-caption {
+  margin-top: -100px;
+  text-align: left;
+
+}
+
+
+.carousel-caption h2 {
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-transform: uppercase;
+
+}
+
+.main-btn {
+  background-color: transparent;
+  color: #FFF;
+  width: 50%;
+  height: auto;
+  padding: 3% 10%;
+  border-radius: 33px;
+  border: 3px solid transparent;
+  transition: .5s;
+  border-color: #FFF;
+  font-size: 50%;
+}
+
+.main-btn:hover {
+  text-decoration: none;
+  color: #FFF;
+  background-color: transparent;
+  border-color: #000000;
+  background-color: #bac63e;
+}
+
+p{
+  line-height: inherit;
+  font-weight: 500;
+}
