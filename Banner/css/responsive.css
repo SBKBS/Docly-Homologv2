@@ -1,7 +1,7 @@
 @media (max-width: 1080px) {
   .carousel-caption h2 {
     font-size: 280%;
-    margin-top: 80px;
+    margin-top: 30px;
 
   }
 
@@ -10,7 +10,7 @@
   }
 
   .carousel-caption {
-    width: 50%;
+    width: 28%;
     margin-left: -20px;
     margin-top: -120px;
   }
@@ -23,10 +23,7 @@
 
 
 
-  li{
-    margin-top: -50px;
-  }
-
+  
 
   .main-btn {
     background-color: transparent;
@@ -55,7 +52,7 @@
 @media (max-width: 1366px) {
   .carousel-caption h2 {
     font-size: 280%;
-    margin-top: 80px;
+    margin-top: 30px;
 
   }
 
@@ -65,7 +62,7 @@
   }
 
   .carousel-caption {
-    width: 30%;
+    width: 28%;
     margin-left: -20px;
     margin-top: -120px;
   }
@@ -78,9 +75,10 @@
 
 
   li{
-    margin-top: -50px;
+    margin-top: -100px;
   }
 
+  
 
   .main-btn {
     background-color: transparent;
@@ -110,7 +108,7 @@
 @media (max-width: 1440px) {
   .carousel-caption h2 {
     font-size: 320%;
-    margin-top: 80px;
+    margin-top: 30px;
 
   }
 
@@ -120,7 +118,7 @@
   }
 
   .carousel-caption {
-    width: 30%;
+    width: 28%;
     margin-left: -20px;
     margin-top: -120px;
   }
@@ -132,10 +130,7 @@
     
   }
 
-  li{
-    margin-top: -80px;
-  }
-
+  
 
   
   .main-btn {
@@ -167,7 +162,7 @@
 @media (max-width: 1280px) {
   .carousel-caption h2 {
     font-size: 280%;
-    margin-top: 80px;
+    margin-top: 30px;
 
   }
 
@@ -177,7 +172,7 @@
   }
 
   .carousel-caption {
-    width: 30%;
+    width: 28%;
     margin-left: -20px;
     margin-top: -120px;
   }
@@ -210,7 +205,7 @@
   }
 
 
-
+  
 }
 
 
@@ -271,10 +266,7 @@
     background-color: #bac63e;
   }
 
-  li{
-    margin-top: -30px;
-  }
-
+  
 
 
 }
@@ -298,6 +290,8 @@
     margin-left: -30px;
 
   }
+
+ 
 
 
 

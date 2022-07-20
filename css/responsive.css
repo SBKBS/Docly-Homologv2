@@ -173,13 +173,6 @@ u{
 
 }
 
-@media (max-width: 1440px) {
-
-    #clouds{
-        margin-top: -60px;
-    }
-    
-}
 
 
 
@@ -339,8 +332,8 @@ color: #bac63e;
 }
 
 iframe{
-    height: 500px;
-    margin-top: -50px;
+    height: 400px;
+
 }
 
 
@@ -1327,7 +1320,7 @@ font-size: 12px;}
 }
 
 iframe{
-    height: 500px;
+    height: 300px;
     
 }
 
