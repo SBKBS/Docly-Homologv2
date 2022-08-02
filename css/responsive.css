@@ -5,10 +5,7 @@
 @media (max-width: 1366px) {
    
     
-    #clouds{
-        margin-top: -60px;
-    }
-
+ 
 }
 
 @media (max-width: 1200px) {
@@ -167,9 +164,6 @@ u{
     width: 200px;
 }
 
-#clouds{
-    margin-top: -60px;
-}
 
 }
 
@@ -634,9 +628,7 @@ iframe{
         height: 400px;
     }
 
-    #clouds{
-        margin-top: -50px;
-    }
+  
 
 }
 
@@ -1321,6 +1313,7 @@ font-size: 12px;}
 
 iframe{
     height: 300px;
+
     
 }
 
